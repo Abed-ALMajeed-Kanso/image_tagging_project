@@ -2,7 +2,8 @@
 **Visual Search Project Base**
 
 This project represents the initial step toward implementing a visual search system for images of specific products, with a focus on carpets. 
-Visual search involves using an image as a query to retrieve related information, find similar images, or identify objects.
+Visual search involves using an image as a query to retrieve related information, find similar images, or identify objects. I worked on the project
+during an Internship.
 
 *Project Overview:*
 
